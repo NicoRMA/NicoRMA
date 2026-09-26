@@ -1,6 +1,8 @@
-Greetings! I am Nicolás Machado, a software developer located in the city of Montevideo, Uruguay. By day, I currently work at Lexart, where I contribute to innovative projects and solutions within the technology space. However, when the workday is over, my passion for creativity finds outlet in the field of 3D design, a hobby that I deeply appreciate.
+Hi, I'm Nicolás Machado, a software architect and developer based in Montevideo, Uruguay.
 
-I am passionate about leveraging technology to make a positive impact, both professionally and creatively. Let's connect and share our mutual interests in technology, design, and personal growth. Thank you for joining me on this journey! 🚀✨
+I work mostly on software architecture and engineering, with a particular interest in understanding complex systems and keeping them simple and maintainable.
+
+Outside of code, I enjoy 3D design and other creative projects.
 
 
 
