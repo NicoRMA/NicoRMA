@@ -1,8 +1,8 @@
-Hi, I'm Nicolás Machado, a software architect and developer based in Montevideo, Uruguay.
+Hi, I'm Nicolás Machado, a software architect and developer from Montevideo, Uruguay.
 
-I work mostly on software architecture and engineering, with a particular interest in understanding complex systems and keeping them simple and maintainable.
+Interested in software architecture, technology, and 3D design.
 
-Outside of code, I enjoy 3D design and other creative projects.
+Most of the things I build end up here.
 
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
